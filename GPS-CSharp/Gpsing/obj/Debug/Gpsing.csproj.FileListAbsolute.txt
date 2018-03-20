@@ -1,0 +1,19 @@
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\bin\Debug\Gpsing.exe.config
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\bin\Debug\Gpsing.exe
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\bin\Debug\Gpsing.pdb
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\obj\Debug\Gpsing.csprojResolveAssemblyReference.cache
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\obj\Debug\Gpsing.exe
+c:\users\ty714391\documents\visual studio 2017\Projects\Gpsing\Gpsing\obj\Debug\Gpsing.pdb
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\bin\Debug\Gpsing.exe.config
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\bin\Debug\Gpsing.exe
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\bin\Debug\Gpsing.pdb
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\obj\Debug\Gpsing.csprojResolveAssemblyReference.cache
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\obj\Debug\Gpsing.exe
+P:\Cours\Cours-LP_IDSE\Projet_Groupe\GPS-Arduino\Gpsing\obj\Debug\Gpsing.pdb
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\bin\Debug\Gpsing.exe.config
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\bin\Debug\Gpsing.exe
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\bin\Debug\Gpsing.pdb
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.csprojResolveAssemblyReference.cache
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.exe
+C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.pdb
