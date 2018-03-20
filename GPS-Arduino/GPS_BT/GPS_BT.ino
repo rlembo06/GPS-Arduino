@@ -104,27 +104,6 @@ void parseGPGGA(const char* GPGGAstr)
   }
 }
 
-/*
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(115200);
-  LGPS.powerOn();
-  //Serial.println("LGPS Power on, and waiting ..."); 
-  delay(3000);
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-  //Serial.println("LGPS loop"); 
-  LGPS.getData(&info);
-  Serial.print((char*)info.GPGGA); 
-  parseGPGGA((const char*)info.GPGGA);
-  delay(2000);
-}
-*/
-
-
-
 void setup() {
   Serial.begin(9600);
   if(!LBTServer.begin((uint8_t*)"RL_BTServer"))
@@ -136,6 +115,7 @@ void setup() {
   LGPS.powerOn();
   delay(3000);
 }
+
 void loop() {
   uint8_t buf[64];
   int bytesRead;
@@ -145,12 +125,11 @@ void loop() {
      while(true)
      {
       bytesRead = LBTServer.readBytes(buf, 64);
-      if(!bytesRead)
-      break;
-      //Serial.write(buf, bytesRead);
-      Serial.print("Into console");
-
-      LGPS.getData(&info);      
+      if(!bytesRead) break;
+      
+      LGPS.getData(&info);
+      Serial.println("Response from Smarphone");  
+      LBTServer.print("Response from PC : "); 
       LBTServer.print((char*)info.GPGGA);
       parseGPGGA((const char*)info.GPGGA);
      }
@@ -159,7 +138,7 @@ void loop() {
   else
   {
    LBTServer.accept(5);
-   Serial.println("Hello3");
+   Serial.println("Not Smartphone");
   }
 }
 

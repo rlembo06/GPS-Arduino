@@ -23,7 +23,7 @@ namespace Gpsing
         {
             Console.WriteLine("- Latitude : " + Latitude);
             Console.WriteLine("- Longitude : " + Longitude);
-            //System.Diagnostics.Process.Start("http://www.coordonnees-gps.fr/latitude-longitude/"+ Latitude + "/"+ Longitude + "/10/roadmap");
+            System.Diagnostics.Process.Start("http://www.coordonnees-gps.fr/latitude-longitude/"+ Latitude + "/"+ Longitude + "/10/roadmap");
         }
     }
 }

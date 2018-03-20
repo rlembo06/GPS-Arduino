@@ -2,7 +2,7 @@
 #include <LBTServer.h>
 void setup() {
   Serial.begin(9600);
-  if(!LBTServer.begin((uint8_t*)"My_BTServer"))
+  if(!LBTServer.begin((uint8_t*)"RL_BTServer"))
   {
     Serial.println("Fail to start BT.");
     return;
