@@ -17,3 +17,11 @@ C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\bin\Debug\System.Runtime.InteropSer
 C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.csprojResolveAssemblyReference.cache
 C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.exe
 C:\Users\lr706510\Desktop\GPS-Arduino\Gpsing\obj\Debug\Gpsing.pdb
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\bin\Debug\Gpsing.exe.config
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\bin\Debug\Gpsing.exe
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\bin\Debug\Gpsing.pdb
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\obj\Debug\Gpsing.csprojResolveAssemblyReference.cache
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\obj\Debug\Gpsing.csproj.CoreCompileInputs.cache
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\obj\Debug\Gpsing.exe
+C:\Users\romai\Desktop\GPS-Arduino\GPS-CSharp\Gpsing\obj\Debug\Gpsing.pdb

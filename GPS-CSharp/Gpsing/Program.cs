@@ -17,7 +17,7 @@ namespace Gpsing
 
         public static void Main(string[] args)
         {
-            SerialPort mySerialPort = new SerialPort("COM10");
+            SerialPort mySerialPort = new SerialPort("COM4");
 
             mySerialPort.BaudRate = 9600;
             mySerialPort.Parity = Parity.None;
